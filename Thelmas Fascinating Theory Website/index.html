@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<head>
+	
+	<title>Thelma’s Fascinating Theory Website</title>
+	<link rel="stylesheet" type="text/css" href="main_style.css">
+
+<!-- JavaScript -->
+	<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+	<script type="text/javascript">
+		$(window).on('scroll', function() {
+			if($(window).scrollTop()) {
+				$('nav').addClass('black');
+			}
+			else {
+				$('nav').removeClass('black');
+			}
+		})
+	</script>
+<!-- End of JavaScript -->
+
+</head>
+
+<body>
+
+	<div class="wrapper">
+		<nav>
+			<ul>
+				<li><a class="active" id="hover" href="index.html">Types of Programming</a></li>
+				<li><a href="languages.html">Types of Languages</a></li>
+				<li><a href="data.html">Data Types</a></li>
+				<li><a href="model.html">Software Development Life Cycle</a></li>
+				<li><a href="code.html">Quality Code</a></li>
+			</ul>
+		</nav>
+
+		<div class="header">
+			<p>Welcome to Thelma’s Fascinating Theory Website</p>
+		</div>
+
+		<div id="content">
+
+			<h1 style="text-align: center;"><u>Programming Paradigms</u></h1>
+
+			<h1><u>Procedural Programming</u></h1>
+
+			<p>Procedural Programming is a paradigm which has been derived from structured programming. This is due to procedural programming requiring lines of code to be ordered sequentially to be able to function appropriately. Procedural programming also contains routines, subroutines or functions to ensure that the program is ordered appropriately, and each section is organised within its own routine, subroutine or function. Some examples of Procedural Programming Languages include C# and Python. Procedural Programming is beneficial for developers who are creating specific programs which require items to happen at specific sections of the application, as previously mentioned procedural programming will only function appropriately if all lines of code are ordered and executed sequentially. However, this limits the freedom of adding in lines of code anywhere into the project. Other paradigms allow for lines of code to be added in at any point during the development cycle, even if the section is meant to be executed after previous sections of code. Another limitation is procedural programs require a user input to function and continuously run through the code.</p>
+
+			<h1><u>Event-Driven Programming</u></h1>
+
+			<p>Event-Driven programming is a programming paradigm in which the functionality of the program is determined by events.  Event-Driven Programming features a few key characteristics which help to separate it from the other programming paradigms. One of these characteristics is the code is run by ‘events’, these can range from button/mouse clicks, scrolling and keyboard inputs. Events are separated into three distinct stages, these being Event Trigger, Event Handler and Event Loop.</p>
+
+			<h2><u>Event Trigger</u></h2>
+
+			<p>The Event Trigger refers to the user input, for example, the event trigger could be when a user clicks a button within a webpage. Once the button has been clicked the event trigger will be called, in which the program will run the appropriate code stored within the event handler.</p>
+
+			<h2><u>Event Handler</u></h2>
+
+			<p>The Event Handler is required to enable to event trigger to function, as once the event trigger is activated then the code contained within the event handler will run. This will result in this specific section of code only being executed once the trigger is activated by the user.</p>
+
+			<h2><u>Event Loop</u></h2>
+
+			<p>The Event Loop is used to ensure that the code contained within the event handler continues to run until a specific condition is met, or another event trigger is called. This will ensure that the application will continue to produce the desired results.</p>
+
+			<br>
+
+			<p>Event Driven Programming is primarily used within graphical interface designs. There are multiple languages which are designed for this type of programming, with the main two languages being Java and C++. A limitation of this type of programming is the resources required to fully operate and display all the desired graphics the developer wishes to display. Some systems may not have the appropriate resources to fully view the application.</p>
+
+			<h1><u>Object Orientated Programming</u></h1>
+
+			<p>Object Orientated Programming allows for sections of code to be grouped together as an object which can be referenced later in the project. OOP (Object Orientated Programming) allows for the project to be altered and modified without needing to disregard the old project. There are two major parts to OOP, these being Classes and Objects.</p>
+
+			<h2><u>Classes</u></h2>
+
+			<p>Classes are a blueprint of a various item which defines the state and behaviour of an object. The class also relates to the overall subject of the project, for example, if the class is a football team, there will be objects contained within this class containing football team names. Classes are also used to state specific items which are related to the object, for example, if the object is a dog the state will be Breed, Gender, Size, Weight, Height, etc.</p>
+
+			<h2><u>Objects</u></h2>
+
+			<p>Objects are stored within a class and each object within a class has the same properties. Objects contain two specific characteristics which are state and behaviour. The state of an object relates to the specifics of the object, for example, the state of a cat will be breed, weight, size, height, etc. Whereas the behaviour relates to the specific characteristics of an object, for example, the behaviour of a cat would me purrs, meows, sleeps, eats, etc.</p>
+
+			<br>
+
+			<p>Java and Ruby are the two most popular languages which have been developed for OOP. OOP is preferred over the other programming paradigms as this type of paradigm can easily be edited at any time and this paradigm requires less time to develop. Large businesses favour OOP as they can use the same classes within multiple projects to speed up the development time. The limitation of OOP is that to develop a functioning console application the code must be organised similarly to Procedural Programming, in that the code must be organised in the order they should be executed.</p>
+
+			<h1><u>Suitability of procedural programming for developing graphical applications</u></h1>
+
+			<p>Procedural programming is not suitable to develop graphical applications with due to procedural programming not featuring support for graphical applications. Procedural Programming requires the project to be organised within the specific order in which the instructions should be executed. This format would not be appropriate for graphical applications as users can interact with various components resulting in the program needing to switch between different methods and classes, this would cause errors and crash the procedural program. Along with this graphical applications will require the application to function without user input, which would be hard to achieve with procedural programming as this requires user input to function. As opposed to this paradigm, Object Orientated Programming would best suit graphical applications due to OOP containing classes which can be called for at any point during the application. Along with this OOP operates using objects which can be interacted with by users, resulting in the desired results being achieved easily. The same result would be difficult to achieve within Procedural Programming.</p>
+
+		</div>
+		
+		<section class="parallax">
+			
+			<div class="parallax-inner">
+			</div>
+
+		</section>
+
+		<footer>
+			<p>&copy; Joshua Merrett</p>
+
+			<input class="email" type="text" placeholder="Email address" name="mail" required>
+
+			<input class="subscribe" type="submit" value="Subscribe to Newsletter">
+
+		</footer>
+
+	</div>
+
+</body>
+
+</html>

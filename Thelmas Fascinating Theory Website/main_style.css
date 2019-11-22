@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+	background-color: #2f7ea9;
+}
+
+nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100px;
+	padding: 10px 100px;
+	box-sizing: border-box;
+	transition: .3s;
+}
+
+nav.black {
+	background: rgba(0, 0, 0, 0.8);
+	height: 100px;
+	padding: 10px 100px;
+}
+
+nav .town {
+	padding: 22px 20px;
+	height: 80px;
+	float: left;
+	font-size: 24px;
+	transition: .3s;
+	color: #FFF;
+}
+
+nav.black .town {
+	color: #FFF;
+}
+
+nav ul {
+	list-style: none;
+	float: right;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+nav ul li {
+	list-style: none;
+}
+
+nav ul li a {
+	line-height: 80px;
+	color: #00ffec;
+	padding: 12px 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: .3s;
+}
+
+nav.black ul li a {
+	color: #FFF;
+}
+
+nav ul li a:focus {
+	outline: none;
+}
+
+nav ul li a.active {
+	color: #E2472F;
+}
+
+nav ul li a.active:hover {
+	color: #FFF;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.header {
+	background: url('images/programming.jpg') no-repeat center fixed;
+	background-size: cover;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+	color: #f7d470;
+	padding-top: 18%;
+	padding-bottom: 25%;
+	text-shadow: 2px 2px 8px #000;
+}
+
+#content {
+	fill: 80%;
+	margin-bottom: 5%;
+	padding-top: 20px;
+}
+
+h1 {
+	text-transform: uppercase;
+	letter-spacing: 1%;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	font-size: 25px;
+}
+
+h2 {
+	color: #000;
+	text-transform: uppercase;
+	letter-spacing: 1%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	font-size: 20px;
+}
+
+p {
+	padding-left: 10px;
+}
+
+img {
+	height: 200px;
+	width: 250px;
+	padding-left: 10px;
+}
+
+/*--- Start Parallax ---*/
+
+.parallax {
+	background: url('images/programming.jpg') repeat fixed 100%;
+	background-size: cover;
+	opacity: 0.7;
+}
+
+.parallax-inner {
+	padding-top: 18%;
+	padding-bottom: 18%;
+}
+
+/*---End Parallac ---*/
+
+th, td {
+	border: 3px solid black;
+	font-family: 'Raleway', sans-serif;
+}
+
+footer {
+	background: #000;
+	color: #FFF;
+	padding-top: 10px;
+	padding-bottom: 8%;
+	display: block;
+	text-align: center;
+}
+
+.email {
+	width: 50%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.subscribe {
+	width: 50%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+	background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+
+.subscribe:hover {
+	opacity: 0.8;
+}
