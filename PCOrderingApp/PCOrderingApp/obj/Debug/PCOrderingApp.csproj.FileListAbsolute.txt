@@ -1,0 +1,28 @@
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\bin\Debug\PCOrderingApp.exe.config
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\bin\Debug\PCOrderingApp.exe
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\bin\Debug\PCOrderingApp.pdb
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.Properties.Resources.resources
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.csproj.GenerateResource.Cache
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.csproj.CoreCompileInputs.cache
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.exe
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.pdb
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.csprojResolveAssemblyReference.cache
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\bin\Debug\PartOrderForm.resx
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\bin\Debug\PartOrderForm.cs
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\bin\Debug\PartOrderForm.Designer.cs
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.LoginForm.resources
+U:\Joshua Merrett\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.PartOrderForm.resources
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\bin\Debug\PartOrderForm.resx
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\bin\Debug\PartOrderForm.cs
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\bin\Debug\PartOrderForm.Designer.cs
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\bin\Debug\PCOrderingApp.exe.config
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\bin\Debug\PCOrderingApp.exe
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\bin\Debug\PCOrderingApp.pdb
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.csprojResolveAssemblyReference.cache
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.LoginForm.resources
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.PartOrderForm.resources
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.Properties.Resources.resources
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.csproj.GenerateResource.Cache
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.exe
+C:\Users\HP\College\Year 2\Event Driven Programming\Assignment\PCOrderingApp\PCOrderingApp\obj\Debug\PCOrderingApp.pdb
